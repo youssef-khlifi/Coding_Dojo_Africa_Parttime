@@ -1,4 +1,4 @@
-function displayName(elementName) {
+/* function displayName(elementName) {
 console.log(elementName);
 }
 function example(element) {
@@ -9,5 +9,13 @@ function turnOff(element) {
 }
 
 function hide(element) {
-    element.remove() ;
+    element.remove() ; 
+} */
+
+var box = document.querySelector(".colored-box") 
+function  boxColor(color) { 
+    box.style= background-color: $red ;
 }
+
+boxColor() ;
+
