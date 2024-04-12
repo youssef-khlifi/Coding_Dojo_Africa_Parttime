@@ -1,0 +1,31 @@
+#search button, #plus button, #create button{
+
+    margin-bottom: 10px;
+    height: 40px;
+    
+
+}
+div > #search button {
+    color: rgb(10, 218, 149);
+    border: 2px solid ;
+    border-radius: 20px;
+    width: 100px;
+    font-weight: 900;
+}
+
+div > #plus button{
+    width: 40px;
+    background-color:rgb(10, 218, 149);
+    padding: 10px ;
+    color: aliceblue;
+    border-radius: 50%;
+    border: none ; 
+}
+
+div > #create button{
+    width: 100px;
+    color:white;
+    background-color: rgb(77, 77, 211);
+    border: 2px solid ;
+    box-shadow: 2px 2px black;
+}

@@ -1,0 +1,36 @@
+*{ 
+    background-color: rgb(168, 254, 193);
+}
+
+header {
+    border: solid 1px blue;
+   
+}
+
+h1{ 
+    font-size: 36px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    display: inline-block;
+    width: 50%;
+    border: solid 1px red;
+    
+}
+
+Nav { 
+    
+    display: inline-block;
+    text-align: right;
+    
+}
+
+input{
+    padding: 5px;
+    margin: 5px;
+    margin-left: 10px;
+}
+
+
+input[type="submit"] {
+    color: rgb(222, 33, 33);
+}
