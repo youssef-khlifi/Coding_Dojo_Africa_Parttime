@@ -5,3 +5,4 @@ function hide(element) {
 function turnOff(element){
     element.innerText="Logout" ;
 }
+

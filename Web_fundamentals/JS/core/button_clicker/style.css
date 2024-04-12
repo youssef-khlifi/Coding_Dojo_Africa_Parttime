@@ -79,5 +79,23 @@ align-items: center;
     padding: 20px;
     border: 3px solid black;
     height: 90px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
     
 }
+
+.right button {
+    padding: 3px 5px;
+    margin-top: 2px;
+    background-color: rgb(44, 142, 44);
+    
+}
+
+.likes{
+    background-color: rgb(223, 186, 40);
+    border: 2px solid black;
+    padding: 2px 5px;
+    margin-top: 10px;
+}
+
